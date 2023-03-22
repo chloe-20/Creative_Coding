@@ -1,5 +1,5 @@
 # Creative_Coding
-유튜버 Interactive Developer님의 영상을 보고 작업한 결과물입니다.(클론코딩)
+유튜버 Interactive Developer님의 영상을 보고 클론 코딩한 작업물입니다.<br>
 아직은 자바스크립트에 대한 기본기가 부족해서 코드를 완벽하게 분석하고 이해하지 못하지만, 구현해 보는 것에 의의를 두었습니다.
 
 01_Sheep
